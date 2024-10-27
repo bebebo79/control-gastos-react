@@ -1,3 +1,11 @@
+Hi, Soy Beatriz Bermejo 
+
+En este proyecto he visto las ventajas de usar useContext, y evitar usar tanto Props.
+
+Me ha gustado la facilidad en la que se conectan todo a traves de un hook creado para todo el proyecto.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
